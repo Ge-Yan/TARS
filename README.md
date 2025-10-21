@@ -8,9 +8,9 @@ First, install the necessary dependencies for the project by running:
 ```bash
 pip install -r requirements.txt
 ```
-### 2. Download Dataset
+### 2. Download The Test Dataset
 
-Go to [MCTACO]([https://github.com/wangcunxiang/SemEval2020-Task4-Commonsense-Validation-and-Explanation](https://github.com/CogComp/MCTACO/tree/master)) and download the dataset. Place the downloaded data in the `data` folder at the project root.
+Go to [MCTACO](https://github.com/CogComp/MCTACO/tree/master) and download the dataset. Place the downloaded data in the `data` folder at the project root.
 
 ### 3. Configure
 
